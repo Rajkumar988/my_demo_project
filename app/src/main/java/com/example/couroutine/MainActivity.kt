@@ -14,5 +14,11 @@ class MainActivity : AppCompatActivity() {
 
         //This is new line
         //This is comment
+
+        myFun()
+    }
+
+    fun myFun(){
+
     }
 }
